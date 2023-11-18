@@ -12,5 +12,6 @@ void c_scan(int*, int);
 
 #define SIZE 5
 #define MAX 10000
+#define CYLINDER 50
 
 #endif
